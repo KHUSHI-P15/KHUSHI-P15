@@ -67,10 +67,12 @@
 
 # ☕ Interests
 
-- 💻 Full-stack development
+- 💻 Building full-stack apps that actually work
 - 🧠 AI/ML curiosity
-- 🎮 Gaming
-- ✍️ Writing tech blogs
+- 🎨 Turning caffeine into code and decent UI
+- 🛠️ Refactoring code just to sleep better
+- 🧪 Breaking stuff to figure out how it works (aka debugging)
+- 🚀 Competing in hackathons like it’s the tech Olympics
 
 ---
 
